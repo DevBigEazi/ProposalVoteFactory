@@ -11,7 +11,10 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
-```Deployed Addresses
+
+```
+Contract Addresses
 
 ProposalVoteFactoryModule#ProposalVoteFactory - 0x7BeaD3d24fc31d22FC17352778426987f53C1031
+
 ```
